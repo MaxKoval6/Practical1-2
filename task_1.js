@@ -11,8 +11,8 @@
 // console.log(typeof txt);
 
 //task 2
-// const a1 = Слава Україні!;
-// let b1 = Героям Слава;
+// const a1 = 'Слава Україні!';
+// let b1 = 'Героям Слава';
 
 // const a2 = 2022;
 // let b2 = 2023;
